@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <script defer src="product-details.js"></script>
+</head>
+<body>
+    <div class="heading">
+        <h1>Product Details</h1>
+    </div>
+    <section id="product-details" class="product-container">
+        <!-- Left Side: Image Gallery -->
+        <div class="image-gallery">
+            <div class="thumbnail-list"></div>
+            <div class="main-image-wrapper">
+                <img id="main-image" src="images/double_pump.jpg" alt="Product Image">
+            </div>
+        </div>
+
+        <!-- Right Side: Product Information -->
+        <div class="product-info">
+            <h2 id="product-name">Double Fuel Pump</h2>
+            <p class="brand">Brand: Shell<span id="product-brand"></span></p>
+            <p class="price">Price:#500,000 <span id="product-price"></span></p>
+            
+            <div class="quantity-selector">
+                <button class="qty-btn" onclick="updateQuantity(-1)">-</button>
+                <input type="text" id="quantity" value="1" readonly>
+                <button class="qty-btn" onclick="updateQuantity(1)">+</button>
+            </div>
+
+            <button id="add-to-cart">Add to Cart</button>
+            <button id="buy-now">Buy Now</button>
+        </div>
+    </section>
+</body>
+</html>
