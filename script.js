@@ -26,7 +26,7 @@ name: "Double Fuel Pump",
 price: 500,
 brand: "Shell",
 category: "Pumps",
-image: "images/double_pump.jpg",
+image: "double_pump.jpg",
 description: "High-quality fuel pump ensures smooth fuel flow and engine performance."
 },
 
@@ -36,7 +36,7 @@ name: "Nozzle",
 price: 14.50,
 brand: "Mobil", 
 category: "Filters",
-image: "images/nozzle.webp",
+image: "nozzle.webp",
 description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun Refueling Nozzles"
 },
 { 
@@ -45,7 +45,7 @@ description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun 
     price: 200,
     brand: "NGK", 
     category: "Ignition",
-    image: "images/preset pad.avif"
+    image: "preset pad.avif"
 },
 
 { 
@@ -54,10 +54,10 @@ description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun 
     price: 12.08,
     brand: "NGK", 
     category: "Ignition",
-    image: "images/flow_meter.avif",
+    image: "flow_meter.avif",
     thumbnails: [
-        "images/flow_meter2.avif",
-        "images/flow_meter3.avif"
+        "flow_meter2.avif",
+        "flow_meter3.avif"
         ],
     
         shipping: "Ships within 7-14 days."
@@ -69,7 +69,7 @@ description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun 
     price: 800,
     brand: "NGK", 
     category: "Ignition",
-    image: "images/sig_pump.avif"
+    image: "sig_pump.avif"
 },
 
 {
@@ -78,7 +78,7 @@ description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun 
     price:99.99,
     brand: "Mobil", 
     category: "Filters",
-    image: "images/inpeller.webp",
+    image: "inpeller.webp",
     description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun Refueling Nozzles"
 },
 
@@ -89,10 +89,10 @@ description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun 
     brand: "Mobil", 
     category: "Filters",
     description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun Refueling Nozzles",
-    image: "images/display_board1.avif",
+    image: "display_board1.avif",
     thumbnails: [
-    "images/display_board2.avif",
-    "images/display_board3.avif"
+    "display_board2.avif",
+    "display_board3.avif"
 ],
 
 shipping: "Ships within 7-14 days."
@@ -106,10 +106,10 @@ shipping: "Ships within 7-14 days."
     brand: "Langeng", 
     category: "Filters",
     description: "High Quality Fuel Dispenser Automatic 11a Opw Fuel Nozzle Oil Gun Refueling Nozzles",
-    image: "images/mother_board.avif",
+    image: "mother_board.avif",
     thumbnails: [
-    "images/display_board2.avif",
-    "images/display_board3.avif"
+    "display_board2.avif",
+    "display_board3.avif"
     ],
 
     shipping: "Ships within 7-14 days."
